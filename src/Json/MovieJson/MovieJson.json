@@ -1,0 +1,269 @@
+[
+    {
+        "id":1,
+        "name":"Freddy",
+        "time":"2022 - 2h 4m",
+        "rating":{
+            "avg":"7.4",
+            "all":"34k"
+        },
+        "video":"https://www.youtube.com/embed/dx1mga5gFbY?si=LSZOWbXV_bm3klYc",
+        "modes":[
+            {
+                "mode":"Drama"
+            },
+            {
+                "mode":"Mystery"
+            },
+            {
+                "mode":"Romance"
+            }
+        ],
+        "decription":"The lines between love and obsession blur in this romantic thriller packed with unpredictable twists and sharp turns.",
+        "Director":"Shashanka Ghosh",
+        "writers":[
+            {
+                "writer":"Parveez Sheikh"
+            },
+            {
+                "writer":"Aseem Arrora"
+            }
+        ],
+        "img":"https://m.media-amazon.com/images/M/MV5BNzdiYzMyZjktODRhOC00OWM1LWI4NWUtNTlkNjRjM2RkMjM5XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg",
+        "stars":[
+            {
+                "star":"Kartik Aaryan"
+            }
+            ,
+            {
+                "star":"Alaya F"
+            },
+            {
+                "star":"Karan Pandit"
+            }
+        ]
+        
+    },
+    {
+        "id":2,
+        "name":"Napoleon",
+        "time":"2023 - R - 2h 38m",
+        "rating":{
+            "avg":"6.6",
+            "all":"71k"
+        },
+        "video":"https://www.youtube.com/embed/S7oPzS-efK0?si=FgxwZUlaPa-ouJyW",
+        "modes":[
+            {
+                "mode":"Action"
+            },
+            {
+                "mode":"Advaeture"
+            },
+            {
+                "mode":"Biography"
+            }
+        ],
+        "decription":"An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "Director":"Ridley Scott",
+        "writers":[
+            {
+                "writer":"David Scarpa"
+            }
+        ],
+        "img":"https://m.media-amazon.com/images/M/MV5BZWIzNDAxMTktMDMzZS00ZjJmLTlhNjYtOGUxYmZlYzVmOGE4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "stars":[
+            {
+                "star":"Joaquin Phoenix"
+            }
+            ,
+            {
+                "star":"Vanessa Kirby"
+            },
+            {
+                "star":"Tahar Rahim"
+            }
+        ]
+        
+    },
+    {
+        "id":3,
+        "name":"Wonka",
+        "time":"2023 - PG - 1h 56m",
+        "rating":{
+            "avg":"7.3",
+            "all":"39k"
+        },
+        "video":"https://www.youtube.com/embed/f8HQ3OhOe-I?si=-V_dabgIAl5dv-qx",
+        "modes":[
+            {
+                "mode":"Advaeture"
+            },
+            {
+                "mode":"Comedy"
+            },
+            {
+                "mode":"Family"
+            }
+        ],
+        "decription":"With dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers.",
+        "Director":"Paul King",
+        "writers":[
+            {
+                "writer":"Simon Farnaby"
+            },
+            {
+                "writer":"Paul King"
+            },
+            {
+                "writer":"Roald Dahl"
+            }
+        ],
+        "img":"https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "stars":[
+            {
+                "star":"Timothée Chalamet"
+            }
+            ,
+            {
+                "star":"Gustave Die"
+            },
+            {
+                "star":"Murray McArthur"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"Percy Jackson and the Olympians",
+        "time":"TV Series 2023 – TV-PG 45m",
+        "rating":{
+            "avg":"7.7",
+            "all":"7.8k"
+        },
+        "video":"https://www.youtube.com/embed/uHb7au6Gmls?si=p2M_Cfqol3rc-Nou",
+        "modes":[
+            {
+                "mode":"Action"
+            },
+            {
+                "mode":"Advaeture"
+            },
+            {
+                "mode":"Family"
+            }
+        ],
+        "decription":"Demigod Percy Jackson leads a quest across America to prevent a war among the Olympian gods.",
+        "Director":"",
+        "writers":[
+            {
+                "writer":"Rick Riordan"
+            },
+            {
+                "writer":"Jonathan E. Steinberg"
+            }
+        ],
+        "img":"https://m.media-amazon.com/images/M/MV5BMTYyNGUyNWMtMWFlMy00NThiLTk3YjItMWE2MzMzNmQwZTU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "stars":[
+            {
+                "star":"Walker Scobell"
+            }
+            ,
+            {
+                "star":"Leah Jeffries"
+            },
+            {
+                "star":"Aryan Simhadri"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name":"Reacher",
+        "time":"TV Series 2022 – TV-MA 49m",
+        "rating":{
+            "avg":"8.1",
+            "all":"167k"
+        },
+        "video":"https://www.youtube.com/embed/3ygMcbrZNOc?si=RSHtGA7F37e3bR6T",
+        "modes":[
+            {
+                "mode":"Action"
+            },
+            {
+                "mode":"Crime"
+            },
+            {
+                "mode":"Drama"
+            }
+        ],
+        "decription":"Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the books by Lee Child.",
+        "Director":" ",
+        "writers":[
+            {
+                "writer":"Nick Santora"
+            }
+        ],
+        "img":"https://m.media-amazon.com/images/M/MV5BOWRiZjYwZjUtYmIwMy00ZDUzLTk2NjktZmJkZjRkNjU0MDE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "stars":[
+            {
+                "star":"Alan Ritchson"
+            }
+            ,
+            {
+                "star":"Maria Sten"
+            },
+            {
+                "star":"Malcolm Goodwin"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"The Grinch",
+        "time":"2018 - PG - 1h 25m",
+        "rating":{
+            "avg":"6.4",
+            "all":"87k"
+        },
+        "video":"https://www.youtube.com/embed/UzZbMj5qYNg?si=64IV4UDefgiyR3bQ",
+        "modes":[
+            {
+                "mode":"Animation"
+            },
+            {
+                "mode":"Comedy"
+            },
+            {
+                "mode":"Family"
+            }
+        ],
+        "decription":"A grumpy Grinch plots to ruin Christmas for the village of Whoville.",
+        "Director":"Scott Mosier",
+        "writers":[
+            {
+                "writer":"Michael LeSieur"
+            },
+            {
+                "writer":"Tommy Swerdlow"
+            },
+            {
+                "writer":"Dr. Seuss"
+            }
+        ],
+        "img":"https://m.media-amazon.com/images/M/MV5BMmI3NzUwOTItOWI0Yy00M2RiLTljZTAtMDFkODkzMDVkZDNhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "stars":[
+            {
+                "star":"Benedict Cumberbatch"
+            }
+            ,
+            {
+                "star":"Cameron Seely"
+            },
+            {
+                "star":"Rashida Jones"
+            }
+        ]
+    }
+    
+]
